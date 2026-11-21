@@ -1,0 +1,21 @@
+## Interface: 16001
+## Title: Kit do Druida
+## Notes: Contador de buffs, aviso de erva, venda certa, preço no ícone, painel da sessão e blocos de quests, com botão no minimapa para mover e ajustar tudo. /kit
+## Author: homi-lindo
+## Version: 2.6.0
+## OptionalDeps: Auctionator, Lueur, QuestieDB
+## SavedVariablesPerCharacter: KitDruidaDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\HereBeDragons\HereBeDragons-2.0.lua
+Nucleo.lua
+Contador.lua
+Erva.lua
+Venda.lua
+Painel.lua
+Preco.lua
+Blocos.lua
+Macros.lua
+Chat.lua
+Config.lua
